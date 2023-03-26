@@ -26,5 +26,6 @@
 
 
  ![ Блок схема программы ](/image/algoritm1.jpg)
-
+ ![Блок схема программы] (https://github.com/Iwan201087/results_of_first_quarter-.git/raw/main/image/Algoritm1.png)
+ 
 
